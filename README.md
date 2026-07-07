@@ -866,8 +866,8 @@ DBMS_SMART_CAMPUS_ANALYTICS_SYSTEM/
 ## 🔗 Key Links & Resources
 
 - **GitHub**: https://github.com/Rakhal06/DBMS_SMART_CAMPUS_ANALYTICS_SYSTEM
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: rakhal.krishna@iiitdh.ac.in
+- **LinkedIn**: www.linkedin.com/in/b-rakhal-krishna-71b10b368
+- **Email**: b.rakhalkrishna06@gmail.com
 
 ---
 
@@ -875,8 +875,8 @@ DBMS_SMART_CAMPUS_ANALYTICS_SYSTEM/
 
 For questions about the project:
 - 📧 Email: rakhal.krishna@iiitdh.ac.in
-- 💼 LinkedIn: [LinkedIn URL]
-- 🐙 GitHub Issues: [Repository Issues]
+- 💼 LinkedIn: www.linkedin.com/in/b-rakhal-krishna-71b10b368
+
 
 ---
 
