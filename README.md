@@ -886,10 +886,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- **IIIT Dharwad**: Institution and academic support
-- **Dr. Utkarsh Mahadeo Khaire**: Faculty guidance and curriculum design
+
 - **Microsoft SQL Server**: Database platform
 - **FastAPI & React**: Open-source frameworks
 - **Python Community**: pandas, SQLAlchemy, pyodbc libraries
